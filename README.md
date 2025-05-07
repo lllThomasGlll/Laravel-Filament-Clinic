@@ -65,17 +65,8 @@
       <li><strong>Instala las dependencias de JavaScript:</strong>
         <pre><code>npm install</code></pre>
       </li>
-      <li><strong>Copia el archivo de entorno y configura las variables:</strong>
-        <pre><code>cp .env.example .env</code></pre>
-      </li>
-      <li><strong>Genera la clave de la aplicación:</strong>
-        <pre><code>php artisan key:generate</code></pre>
-      </li>
       <li><strong>Ejecuta las migraciones:</strong>
         <pre><code>php artisan migrate</code></pre>
-      </li>
-      <li><strong>Compila los assets:</strong>
-        <pre><code>npm run dev</code></pre>
       </li>
       <li><strong>Inicia el servidor de desarrollo:</strong>
         <pre><code>php artisan serve</code></pre>
