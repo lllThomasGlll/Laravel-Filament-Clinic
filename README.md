@@ -2,64 +2,9 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>🐾 Sistema de Gestión de Pacientes Veterinarios con FilamentPHP</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    code {
-      background-color: #eaeaea;
-      padding: 2px 4px;
-      border-radius: 4px;
-      font-family: monospace;
-    }
-    pre {
-      background-color: #eaeaea;
-      padding: 10px;
-      border-radius: 4px;
-      overflow-x: auto;
-    }
-    ul {
-      list-style-type: disc;
-      margin-left: 20px;
-    }
-    a {
-      color: #3498db;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .badge {
-      display: inline-block;
-      padding: 5px 10px;
-      margin: 2px;
-      background-color: #3498db;
-      color: #fff;
-      border-radius: 4px;
-      font-size: 0.9em;
-    }
-    .section {
-      margin-bottom: 40px;
-    }
-  </style>
 </head>
 <body>
-
   <h1>🐾 Sistema de Gestión de Pacientes Veterinarios con FilamentPHP</h1>
-
-  <div class="section">
-    <span class="badge">Laravel 11.x</span>
-    <span class="badge">FilamentPHP 3.x</span>
-    <span class="badge">PHP >= 8.1</span>
-  </div>
 
   <div class="section">
     <h2>📋 Descripción</h2>
