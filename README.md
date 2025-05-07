@@ -76,27 +76,5 @@
       </li>
     </ol>
   </div>
-
-  <div class="section">
-    <h2>📂 Estructura del Proyecto</h2>
-    <pre><code>├── app/
-│   ├── Models/
-│   ├── Filament/
-│   └── ...
-├── resources/
-│   ├── views/
-│   └── ...
-├── routes/
-│   └── web.php
-├── .env.example
-├── composer.json
-└── README.md</code></pre>
-  </div>
-
-  <div class="section">
-    <h2>📝 Licencia</h2>
-    <p>Este proyecto está bajo la Licencia <a href="https://opensource.org/licenses/MIT" target="_blank">MIT</a>.</p>
-  </div>
-
 </body>
 </html>
